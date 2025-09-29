@@ -61,9 +61,9 @@ Softmax Activation → Class Probabilities
 
 ## PROGRAM
 
-### Name: Lokesh M
+### Name: Sanjay C
 
-### Register Number: 212223230114
+### Register Number: 212223240150
 
 ```python
 
