@@ -209,22 +209,30 @@ predict_image(model, image_index=25, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss
- ![Sample Image](./outputs/image.png)
+ <img width="539" height="249" alt="image" src="https://github.com/user-attachments/assets/cdc4a92e-09e2-49a7-8463-d2f0ab88203f" />
+
 
 ## Validation Loss Vs Iteration Plot
 
-![Sample Image](./outputs/training_loss.png)
+<img width="756" height="601" alt="image" src="https://github.com/user-attachments/assets/1eb5bb4e-d453-447c-bb1c-70e10e74e11b" />
+
 
 ## Confusion Matrix
 
-![Sample Image](./outputs/confu.png)
+<img width="708" height="660" alt="image" src="https://github.com/user-attachments/assets/84cc7f98-7207-4bc4-9bca-1e9c3d5f2378" />
+
 ## Classification Report
-![Sample Image](./outputs/report.png)
+
+<img width="478" height="249" alt="image" src="https://github.com/user-attachments/assets/973b56cd-bca9-4545-8220-96aa2184a921" />
+
 
 ### New Sample Data Prediction
-![Sample Image](./outputs/pred1.png)
 
-![Sample Image](./outputs/pred2.png)
+<img width="413" height="467" alt="image" src="https://github.com/user-attachments/assets/b275017b-9913-4523-82b2-834dbd33e698" />
+
+
+<img width="396" height="475" alt="image" src="https://github.com/user-attachments/assets/7c1d7d0d-b253-4005-a2b4-fcd47394d589" />
+
 ## RESULT
 The model successfully classifies images from the dataset using transfer learning with VGG19. 
 By freezing the convolutional layers and retraining the classifier, 
